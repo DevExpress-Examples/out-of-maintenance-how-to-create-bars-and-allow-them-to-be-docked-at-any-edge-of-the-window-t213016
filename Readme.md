@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/CreateBars/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/CreateBars/MainWindow.xaml))
+<!-- default file list end -->
 # How to create bars and allow them to be docked at any edge of the window
 
 
